@@ -1,0 +1,196 @@
+:root{
+    --color-primary: #0B4F6C;
+    --color-primary-hover: #083B52;
+    --color-secondary: #2D7A99;
+    --color-accent: #B8590F;
+    --color-accent-hover: #94470C;
+
+    --color-text: #1A1A1A;             
+    --color-text-muted: #525252;
+    --color-text-on-primary: #FFFFFF;
+    --color-bg: #FFFFFF;
+    --color-bg-soft: #F4F7F9;
+    --color-bg-strong: #E5ECF0;
+    --color-border: #C8D3DA;
+    --color-border-strong: #8BA0AB;
+
+    --color-success: #1F6B3A;
+    --color-warning: #A14516;
+    --color-error:   #A11414;
+    --color-focus: #B8590F;
+
+    --font-family-base: 'Atkinson Hyperlegible', 'Inter', -apple-system,
+                      BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue',
+                      Arial, sans-serif;
+    --font-family-mono: 'JetBrains Mono', 'Fira Code', Consolas, monospace;
+
+    --font-size-xs: 0.875rem;/*nur für Caption*/
+    --font-size-base: 1.125rem;/*Body*/
+    --font-size-lg: 1.375rem;/*H3*/
+    --font-size-xl: 1.75rem;/*H2*/
+    --font-size-2xl: 2.25rem;/*H1*/
+    --font-size-3xl: 3rem;/*Hero*/
+}
+
+body{
+    margin: 0;
+    font-family: var(--font-family-base);
+    color: var(--color-text);
+    background-color: var(--color-bg);
+}
+
+h1, h2, h3, h4{
+    margin: 0 0 1rem 0;
+    font-weight: 700;
+    line-height: 1.2;
+    color: var(--color-text);
+}
+
+h1{
+    font-size: var(--font-size-2xl);
+}
+
+h2{
+    font-size: var(--font-size-xl);
+    margin-top: 3rem;
+}
+
+h3{
+    font-size: var(--font-size-lg);
+    margin-top: 1.5rem;
+    font-weight: 600;
+}
+
+h4{
+    font-size: var(--font-size-base);
+    font-weight: 600;
+}
+
+.skip-link {
+  position: absolute;
+  top: -100px;
+  left: 1rem;
+  z-index: 1000;
+  padding: 0.75rem 1.25rem;
+  background-color: var(--color-primary);
+  color: var(--color-text-on-primary);
+  font-weight: 700;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: top 150ms ease;
+}
+
+.skip-link:focus {
+  top: 1rem;
+}
+
+.container{
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+}
+
+.btn{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.75rem 1.5rem;
+    font-family: inherit;
+    font-size: var(--font-size-base);
+    font-weight: 600;
+    line-height: 1;
+    text-decoration: none;
+    border: 2px solid transparent;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 150ms ease, border-color 150ms ease, color 150ms ease;
+}
+
+.btn-primary{
+    background-color: var(--color-primary);
+    color: var(--color-text-on-primary);
+}
+
+.btn-primary:hover{
+    background-color: var(--color-primary-hover);
+    text-decoration: none;
+}
+
+.btn-secondary{
+    background-color: transparent;
+    color: var(--color-primary);
+    border-color: var(--color-primary);
+}
+
+.btn-secondary:hover{
+    background-color: var(--color-bg-soft);
+    text-decoration: none;
+}
+
+.section-soft{
+    background-color: var(--color-bg-soft);
+    padding: 4rem 0;
+}
+
+.btn-accent{
+    background-color: var(--color-accent);
+    color: var(--color-text-on-primary);
+}
+
+.btn-accent:hover{
+    background-color: var(--color-accent-hover);
+    color: var(--color-text-on-primary);
+}
+
+.eyebrow {
+    margin: 0 0 1rem 0;
+    font-size: var(--font-size-xs);
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--color-secondary);
+}
+
+.hero-lead{
+    font-size: var(--font-size-lg);
+    line-height: 1.5;
+    margin-bottom: 1.5rem;
+    max-width: 50ch;
+}
+
+.section {
+    padding: 5rem 0;
+}
+
+.section-soft {
+    background-color: var(--color-bg-soft);
+}
+
+.scetion-dark{
+    background-color: var(--color-primary);
+    color: var(--color-text-on-primary);
+}
+
+.cta{
+  padding: 5rem 0;
+  text-align: center;
+  background-color: var(--color-primary);
+  color: var(--color-text-on-primary);
+}
+
+.cta-inner h2{
+  margin: 0 0 1rem 0;
+  color: var(--color-text-on-primary);
+}
+
+.cta-inner p{
+  margin: 0 auto 2rem auto;
+  max-width: 50ch;
+  color: var(--color-text-on-primary);
+  opacity: 0.9;
+}
+
+.hero{
+    padding: 4rem 0;
+  }

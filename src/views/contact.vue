@@ -4,7 +4,7 @@
       <p class="eyebrow">Kontakt</p>
       <h1>Wir freuen uns mit Ihnen Kontakt aufzunehmen.</h1>
       <p class="hero-lead">
-        Egal ob Individuelles Angebot, Testzugang oder technische Auskunft - melden Sie sich bei uns. 
+        Egal ob individuelles Angebot, Testzugang oder technische Auskunft - kontaktieren Sie uns. 
         Wir antworten in der Regel innerhalb eines Werktages.
       </p>
     </div>
@@ -89,9 +89,9 @@
         <div class="info-block">
           <h3>Anschrift</h3>
           <address>
-            Pulslinie Software GmbH<br />
-            Alser Straße 23<br />
-            1090 Wien, Österreich
+            Lapis Software GmbH<br />
+            Musterstraße 29<br />
+            2275 Bernhardsthal, Österreich
           </address>
         </div>
 

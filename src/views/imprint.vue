@@ -24,7 +24,7 @@
             <section aria-labelledby="contact-title">
                 <h2 id="contact-title">Kontakt</h2>
                 <p>
-                    Telefon: <a href="tel:+43112345678">+43 1 1234 5678</a><br />
+                    Telefon: <a href="tel:+4366412345678">+43 664 1234 5678</a><br />
                     E-Mail: <a href="mailto:hallo@queuecare.at">hallo@queuecare.at</a><br />
                     Web: <a href="">https://queuecare.at</a>
                 </p>

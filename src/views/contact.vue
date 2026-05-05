@@ -107,7 +107,7 @@
         <div class="info-block">
           <h3>Telefon</h3>
           <p>
-            <a href="tel:+43112345678">+43 1 1234 5678</a><br />
+            <a href="tel:+4366412345678">+43 664 1234 5678</a><br />
             Mo-Fr 9:00-17:00 Uhr (MEZ)
           </p>
         </div>

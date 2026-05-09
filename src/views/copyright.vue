@@ -103,14 +103,68 @@
 
             <section id="images" aria-labelledby="images-title">
                 <h2 id="images-title">4. Bilder und Fotos</h2>
-                <p>
-                    Bild
-                </p>
+                <h3>ECG Intervals</h3>
                 <ul>
-                    <li>Urheber:in</li>
-                    <li>Lizenztyp</li>
-                    <li>Originalquelle</li>
-                    <li>Eingesetzter Verwendungszweck</li>
+                    <li>Urheber:in: Drricksanchez</li>
+                    <li>Lizenztyp: Creative Commons Attribution-Share Alike 3.0 Unported</li>
+                    <li>Originalquelle: <a href="https://commons.wikimedia.org/wiki/File:ECG_Intervals.svg">https://commons.wikimedia.org/wiki/File:ECG_Intervals.svg</a></li>
+                    <li>Eingesetzter Verwendungszweck: Hero Header</li>
+                </ul>
+
+                <h3>Figure61 (1).svg - Illustration des ABCDE-Schemas in der medizinischen Erstbeurteilung</h3>
+                <ul>
+                    <li>Urheber:in: Silentplanet</li>
+                    <li>Lizenztyp: Creative Commons Attribution-Share Alike 4.0 International</li>
+                    <li>Originalquelle: <a href="https://commons.wikimedia.org/wiki/File:Figure61_(1).svg">https://commons.wikimedia.org/wiki/File:Figure61_(1).svg</a></li>
+                    <li>Eingesetzter Verwendungszweck: Produktvorstellung ("Strukturierte Erfassung")</li>
+                </ul>
+
+                <h3>Fingerpulsoxymeter, links die Sauerstoffsättigung, rechts die Pulsfrequenz</h3>
+                <ul>
+                    <li>Urheber:in: Stefan Bellini</li>
+                    <li>Lizenztyp: Creative Commons CC0 1.0 Universal Public Domain Dedication</li>
+                    <li>Originalquelle: <a href="https://commons.wikimedia.org/wiki/File:Pulox_Pulse_Oximeter.JPG">https://commons.wikimedia.org/wiki/File:Pulox_Pulse_Oximeter.JPG</a></li>
+                    <li>Eingesetzter Verwendungszweck: Produktvorstellung ("Vitalparameter auf einem Blick")</li>
+                </ul>
+
+                <h3>A Hospital Corpsman prepares a wounded Marine for evacuation from a forward aid station in the Yanggu area.</h3>
+                <ul>
+                    <li>Urheber:in: USMC Archives</li>
+                    <li>Lizenztyp: Creative Commons Attribution 2.0 Generic</li>
+                    <li>Originalquelle: <a href="https://commons.wikimedia.org/wiki/File:%22Forward_Triage%22,_circa_1952_edited_and_recropped.jpg">https://commons.wikimedia.org/wiki/File:%22Forward_Triage%22,_circa_1952_edited_and_recropped.jpg</a></li>
+                    <li>Eingesetzter Verwendungszweck: Produktvorstellung ("Triage")</li>
+                </ul>
+
+                <h3>Pills</h3>
+                <ul>
+                    <li>Urheber:in: ProjectManhattan</li>
+                    <li>Lizenztyp: Creative Commons Attribution-Share Alike 3.0 Unported</li>
+                    <li>Originalquelle: <a href="https://commons.wikimedia.org/wiki/File:Pills_2.jpg">https://commons.wikimedia.org/wiki/File:Pills_2.jpg</a></li>
+                    <li>Eingesetzter Verwendungszweck: Produktvorstellung ("Einsatzverlauf")</li>
+                </ul>
+
+                <h3>Folder-documents.png - "Back-white 2 Vista" icon theme</h3>
+                <ul>
+                    <li>Urheber:in: DBGthekafu</li>
+                    <li>Lizenztyp: GNU General Public License</li>
+                    <li>Originalquelle: <a href="https://commons.wikimedia.org/wiki/File:Folder-documents.png">https://commons.wikimedia.org/wiki/File:Folder-documents.png</a></li>
+                    <li>Eingesetzter Verwendungszweck: Produktvorstellung ("Reverse")</li>
+                </ul>
+
+                <h3>Padlock - Padlock icon</h3>
+                <ul>
+                    <li>Urheber:in: AJ Ashton</li>
+                    <li>Lizenztyp: CC0 1.0 universal (Public Domain Dedication)</li>
+                    <li>Originalquelle: <a href="https://commons.wikimedia.org/wiki/File:Padlock.svg">https://commons.wikimedia.org/wiki/File:Padlock.svg</a></li>
+                    <li>Eingesetzter Verwendungszweck: Produktvorstellung ("Sicherheit")</li>
+                </ul>
+
+                <h3>Disposable Nitrile Glove</h3>
+                <ul>
+                    <li>Urheber:in: Tjwood</li>
+                    <li>Lizenztyp: Public Domain</li>
+                    <li>Originalquelle: <a href="https://commons.wikimedia.org/wiki/File:Disposable_nitrile_glove.jpg">https://commons.wikimedia.org/wiki/File:Disposable_nitrile_glove.jpg</a></li>
+                    <li>Eingesetzter Verwendungszweck: Produktvorstellung ("Verbessertes User Interface")</li>
                 </ul>
             </section>
 

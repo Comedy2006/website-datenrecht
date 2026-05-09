@@ -151,7 +151,7 @@
   margin-bottom: 1.25rem;
 }
 
-  @media (max-width: 900px){
+  @media (max-width: 1010px){
     .hero-grid,
     .problem-grid{
       grid-template-columns: 1fr;

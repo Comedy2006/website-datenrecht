@@ -234,7 +234,7 @@
     display: none;
   }
 
-  @media (max-width: 900px) {
+  @media (max-width: 1100px) {
     .factor-grid {
       grid-template-columns: repeat(2, 1fr);
     }

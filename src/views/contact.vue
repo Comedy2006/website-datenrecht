@@ -248,7 +248,7 @@
     color: var(--color-text);
   }
 
-  @media (max-width: 900px) {
+  @media (max-width: 1100px) {
     .contact-grid {
       grid-template-columns: 1fr;
       gap: 3rem;

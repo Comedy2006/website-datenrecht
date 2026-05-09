@@ -177,7 +177,7 @@
     aspect-ratio: 4/3;
   }
 
-  @media (max-width: 900px) {
+  @media (max-width: 1100px) {
     .feature-row,
     .feature-row.reverse {
       grid-template-columns: 1fr;

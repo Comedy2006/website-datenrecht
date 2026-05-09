@@ -21,7 +21,7 @@
       </div>
 
       <div class="hero-visual">
-        <div class="img-placeholder" aria-hidden="true">[BILD]</div>
+        <img src="../assets/ECG_Intervals.svg.png" alt="homepage ecg">
       </div>
     </div>
   </section>

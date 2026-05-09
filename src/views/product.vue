@@ -23,7 +23,7 @@
           </p>
         </div>
         <div class="feature-visual">
-          <div class="img-placeholder" aria-hidden="true">BILD</div>
+          <img src="../assets/Figure61_(1).svg.png" alt="ABCDE" width="384" height="384">
         </div>
       </article>
 
@@ -36,7 +36,7 @@
           </p>
         </div>
         <div class="feature-visual">
-          <div class="img-placeholder" aria-hidden="true">BILD</div>
+          <img src="../assets/Pulox_Pulse_Oximeter.JPG" alt="PulsOxy" width="512" height="384">
         </div>
       </article>
 
@@ -48,7 +48,7 @@
           </p>
         </div>
         <div class="feature-visual">
-          <div class="img-placeholder" aria-hidden="true">BILD</div>
+          <img src="../assets/_Forward_Triage_,_circa_1952_edited_and_recropped.jpg" alt="Triage" width="512" height="384">
         </div>
       </article>
 
@@ -63,7 +63,7 @@
           </p>
         </div>
         <div class="feature-visual">
-          <div class="img-placeholder" aria-hidden="true">BILD</div>
+          <img src="../assets/Pills_2.jpg" alt="medication" width="512" height="384">
         </div>
       </article>
 
@@ -76,7 +76,7 @@
           </p>
         </div>
         <div class="feature-visual">
-          <div class="img-placeholder" aria-hidden="true">BILD</div>
+          <img src="../assets/Folder-documents.png" alt="Reverse">
         </div>
       </article>
 
@@ -88,7 +88,7 @@
           </p>
         </div>
         <div class="feature-visual">
-          <div class="img-placeholder" aria-hidden="true">BILD</div>
+          <img src="../assets/Padlock.svg.png" alt="Security">
         </div>
       </article>
 
@@ -101,7 +101,7 @@
           </p>
         </div>
         <div class="feature-visual">
-          <div class="img-placeholder" aria-hidden="true">BILD</div>
+          <img src="../assets/nitriteglove.jpg" alt="Glove" width="250" height="384">
         </div>
       </article>
     </div>
@@ -171,6 +171,10 @@
     border-radius: 12px;
     color: var(--color-text-muted);
     font-weight: 600;
+  }
+
+  img{
+    aspect-ratio: 4/3;
   }
 
   @media (max-width: 900px) {

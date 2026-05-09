@@ -1,4 +1,4 @@
-import { createRouter, createWebHistory } from 'vue-router'
+import { createRouter, createWebHashHistory } from 'vue-router'
 import homePage from '../views/homePage.vue'
 import pricing from '../views/pricing.vue'
 import contact from '../views/contact.vue'
@@ -11,7 +11,7 @@ import imprint from '../views/imprint.vue'
 import licensing from '../views/licensing.vue'
 
 const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHashHistory(),
   routes: [
     { path: '/', name: 'home', component: homePage },
     { path: '/pricing', name: 'pricing', component: pricing },

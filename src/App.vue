@@ -4,7 +4,7 @@
 </script>
 
 <template>
-  <a hred="#main" class="skip-link">Direkt zum Inhalt springen</a>
+  <a href="#main" class="skip-link">Direkt zum Inhalt springen</a>
   <SiteHeader />
   <main id="main" tabindex="-1">
     <RouterView />

@@ -95,7 +95,7 @@
                     Der Anbieter haftet nach den allgemeinen gesetzlichen Vorschrifte, jedoch nach Maßgabe der nachfolgenden Bestimmungen:
                 </p>
 
-                <h3>8.1 Wofür der Anbieter haftet</h3>
+                <h3>5.1 Wofür der Anbieter haftet</h3>
                 <p>
                     Der Anbieter hastet für Schäden, die durch vorsätzliches oder grob fahrlässiges Verhalten des Anbieters, seiner 
                     gesetzlichen vertreter:innen oder Erfüllungsgehilf:innen verursacht werden, sowie für Schäden an Leben, Körper oder
@@ -104,7 +104,7 @@
                     zwölf Monaten gezahlten Lizenzgebühren begrenzt, mindestens jedoch auf 5000 Euro.
                 </p>
 
-                <h3>8.2 Wofür der Anbieter nicht haftet</h3>
+                <h3>5.2 Wofür der Anbieter nicht haftet</h3>
                 <p>
                     Der Anbieter haftet nicht für medizinische, sanitätsdienstliche oder organisatorische Entscheidungen, die durch das Personal
                     der Lizenznehmer:in unter Verwendeung der Softwareprodukte getroffen werden. Hierzu zählen vor allem Triage-Entscheidungen, Beurteilung
@@ -113,7 +113,7 @@
                     sachgerechte Bedienung durch ihre Mitarbeiter:innen.
                 </p>
 
-                <h3>8.3 Mittelbare und Folgeschäden</h3>
+                <h3>5.3 Mittelbare und Folgeschäden</h3>
                 <p>
                     Eine Haftung für entgangenen Gewinn, ausgebliebene Einsparungen, mittelbare Schäden, Folgeschäden, Datenverluste oder Ansprüche
                     Dritter ist - soweit gesetzlich zulässig - ausgeschlossen.

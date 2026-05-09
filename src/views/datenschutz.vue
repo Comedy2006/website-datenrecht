@@ -239,7 +239,7 @@
                 <p>
                     Unsere Website verwendet Cookies. Cookies sind kleine Textdateien, die im Browser Ihres Endgeräts gespeichert werden.
                 </p>
-                <h3>4.1 Technisch notwendige Cookies</h3>
+                <h3>13.1 Technisch notwendige Cookies</h3>
                 <p>
                     Diese Cookies sind für den Betrieb der Website erforderlich (zB Sprachauswahl).
                     Sie werden ohne Ihre Einwilligung gesetzt.
@@ -249,7 +249,7 @@
                     <strong>Speicherdauer:</strong> 1 Sitzung bis 12 Monate je nach Cookie.
                 </p>
 
-                <h3>4.2 Optionale Cookies</h3>
+                <h3>13.2 Optionale Cookies</h3>
                 <p>
                     Setzen wir nur mit Ihrer ausdrücklichen Einwilligung. Diese erteilen Sie über unseren Cookie-Hinweis beim ersten Besuch
                     der Website. Die Einstellung kann jederzeit widerrufen werden, indem Sie die Cookies in Ihrem Browser löschen.

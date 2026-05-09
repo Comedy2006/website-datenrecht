@@ -28,6 +28,7 @@
                     <li><a href="#hosting">Hosting</a></li>
                     <li><a href="#third-countries">Übermittlung an Drittländer</a></li>
                     <li><a href="#security">Sicherheit Ihrer Daten</a></li>
+                    <li><a href="#cookies">Cookies</a></li>
                     <li><a href="#rights">Ihre Rechte als Betroffene</a></li>
                     <li><a href="#complaint">Beschwerderecht</a></li>
                     <li><a href="#changes">Änderungen dieser Datenschutzerklärung</a></li>

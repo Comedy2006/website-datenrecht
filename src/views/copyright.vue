@@ -180,6 +180,9 @@
                         <dt>Urheber:innen</dt>
                         <dd>Yuxi (Evan) You and Vue.js-Contributors</dd>
 
+                        <dt>Lizenz</dt>
+                        <dd>MIT License</dd>
+
                         <dt>Quelle</dt>
                         <dd><a href="https://vuejs.org" rel="noopener">vuejs.org</a></dd>
 

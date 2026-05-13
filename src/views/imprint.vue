@@ -6,7 +6,7 @@
             <header class="page-header">
                 <h1>Impressum</h1>
                 <p class="page-lead">
-                    Informatioonspflichten gemäß § 5 E-Commerce-Gesetz (ECG),
+                    Informationspflichten gemäß § 5 E-Commerce-Gesetz (ECG),
                     § 14 Unternehmensgesetzbuch (UGB) und Offenlegung nach 
                     § 25 Mediengesetz (MedienG).
                 </p>
@@ -17,7 +17,7 @@
                 <address class="contact-block">
                     <strong>Lapis Software GmbH</strong><br />
                     Musterstraße 29<br />
-                    2275 Bernhardsthal, Niederösterreich
+                    2275 Bernhardsthal / Niederösterreich
                 </address>
             </section>
 
@@ -62,7 +62,7 @@
             </section>
 
             <section aria-labelledby="authority-title">
-                <h2 id="aria-labelledby">Aufischtsbehörde / Gewerbebehörde</h2>
+                <h2 id="aria-labelledby">Aufsichtsbehörde / Gewerbebehörde</h2>
                 <p>
                     Bezirkshauptmannschaft Mistelbach<br />
                     Mitterhofergasse 4, 2130 Misterlbach<br />
@@ -89,8 +89,8 @@
             <section aria-labelledby="disclosure-title">
                 <h2 id="disclosure-title">Offenlegung nach § 25 Mediengesetz</h2>
                 <p>
-                    <strong>Medieninhaberin und Herausgeber:in</strong>
-                    Lapis Software GmbH (Anschrit wie oben)
+                    <strong>Medieninhaber:in und Herausgeber:in</strong>
+                    Lapis Software GmbH (Anschrift wie oben)
                 </p>
                 <p>
                     <strong>Beteiligungsverhältnisse:</strong>
@@ -112,7 +112,7 @@
                     wurde mit 20. Juli 2025 eingestellt und steht nicht mehr zur Verfügung.
                 </p>
                 <p>
-                    Wir sind weder verpflichtetnoch bereit, an einem Streitbeteiligungsverfahren vor einer 
+                    Wir sind weder verpflichtet noch bereit, an einem Streitbeteiligungsverfahren vor einer 
                     Verbraucherschlichtungsstelle teilzunehmen.
                 </p>
             </section>
@@ -121,11 +121,11 @@
                 <h2 id="disclaimer-title">Haftung für Inhalte</h2>
                 <p>
                     Die Inhalte dieser Website werden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit 
-                    und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Unsere Pflichten zur Entfernung 
+                    und Aktualität der Inhalte übernehmen wir jedoch keine Gewähr. Unsere Pflichten zur Entfernung 
                     oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt.
                 </p>
                 <p>
-                    Diese Website enthält Links zu externen Wesbites Dritter, auf deren Inhalte wir keinen Einfluss 
+                    Diese Website enthält Links zu externen Websites Dritter, auf deren Inhalte wir keinen Einfluss 
                     haben. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter verantwortlich.
                 </p>
             </section>

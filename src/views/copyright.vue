@@ -6,7 +6,7 @@
             <header class="page-header">
                 <h1>Urheberrechtshinweise</h1>
                 <p class="page-lead">
-                    Auf dieser Seite werden alle verwendeten Medien Dritter dokumentiert (sowie deren Urheber_innen und 
+                    Auf dieser Seite werden alle verwendeten Medien Dritter dokumentiert (sowie deren Urheber:innen und 
                     Lizenzbedingungen).
                 </p>
             </header>
@@ -14,32 +14,32 @@
             <nav aria-labelledby="tos-title" class="tos">
                 <h2 id="tos-title">Inhaltsverzeichnis</h2>
                 <ol>
-                    <li><a href="#own">Eigene Inhalte</a></li>
-                    <li><a href="#fonts">Schriftarten</a></li>
-                    <li><a href="#icons">Symbole und Grafiken</a></li>
-                    <li><a href="#images">Bilder und Fotos</a></li>
-                    <li><a href="#code">Code-Bibliotheken</a></li>
-                    <li><a href="#sources">Verwendete Lizenztypen</a></li>
+                    <li>Eigene Inhalte</li>
+                    <li>Schriftarten</li>
+                    <li>Symbole und Grafiken</li>
+                    <li>Bilder und Fotos</li>
+                    <li>Code-Bibliotheken</li>
+                    <li>Verwendete Lizenztypen</li>
                 </ol>
             </nav>
 
             <section id="own" aria-labelledby="own-title">
                 <h2 id="own-title">1. Eigene Inhalte</h2>
                 <p>
-                    Sämtliche Texte, Konzepte, das Logo "QueueCare", Markenelemente, Farbschma sowie Struktur dieser Website sind
-                    eigenes Werk der Lapis Software GmbH. Sie unterliegen dem Urheberrecht der lapits Software GmbH und dürfen ohne
-                    ausdrückliche schriftliche Zustimung nicht weiterverwendet werden.
+                    Sämtliche Texte, Konzepte, das Logo "QueueCare", Markenelemente, Farbschema sowie Struktur dieser Website sind
+                    geistiges Eigentum und Werk der Lapis Software GmbH. Sie unterliegen dem Urheberrecht der Lapis Software GmbH und dürfen ohne
+                    ausdrückliche schriftliche Genehmigung nicht weiterverwendet werden.
                 </p>
                 <div class="callout">
                     <p>
-                        <strong>Ausnahme:</strong> Zitate aus diesen INhalten zu wissenschaftlichen, journalistischen oder
-                        vergleichbaren Zwekcne sind im Rahmen des § 42f Urheberrechtsgesetz (Zitatrecht) unter Angabe der Quelle zulässig.
+                        <strong>Ausnahme:</strong> Zitate aus diesen Inhalten zu wissenschaftlichen, journalistischen oder
+                        vergleichbaren Zwecken sind im Rahmen des § 42f Urheberrechtsgesetz (Zitatrecht) unter Angabe der Quelle, zulässig.
                     </p>
                 </div>
             </section>
 
             <section id="fonts" aria-labelledby="fonts-title">
-                <h2 id="fonts-title">2. Schriftarte</h2>
+                <h2 id="fonts-title">2. Schriftarten</h2>
                 <p>
                     Diese Website verwendet folgende Schriftart:
                 </p>
@@ -60,7 +60,7 @@
 
                         <dt>Verwendungszweck</dt>
                         <dd>
-                            Hauptschrift der Website. Speziell für Lesbarkeit bei Sehbeeinträchtigung optimiert
+                            Hauptschrift der Website. Speziell für Lesbarkeit bei Sehbeeinträchtigung optimiert.
                         </dd>
                     </dl>
                 </div>
@@ -76,11 +76,11 @@
                         <dd>Lapis Software GmbH</dd>
 
                         <dt>Lizenz</dt>
-                        <dd>Eigenes Werk, alle Rechte vorbehalten</dd>
+                        <dd>Eigenes Werk, alle Rechte vorbehalten.</dd>
 
                         <dt>Verwendungszweck</dt>
                         <dd>
-                            Häkchen-Symbole in Aufzählungslisten, Plus/Minus Symbole im FAQ-Bereich, Akzentstreifen an Karten - alle als
+                            Häkchen-Symbole in Aufzählungslisten, Plus/Minus-Symbole im FAQ-Bereich, Akzentstreifen an Karten - alle als
                             Inline-SVG oder reine CSS-Pseudo-Elemente direkt im Code umgesetzt.
                         </dd>
                     </dl>
@@ -93,7 +93,7 @@
                         <dd>Unicode Consortium (Zeichensatz selbst nicht urheberrechtlich geschützt)</dd>
 
                         <dt>Lizenz</dt>
-                        <dd>Frei verwendbar (Public Domain)</dd>
+                        <dd>Frei verwendbar (Public Domain).</dd>
 
                         <dt>Verwendungszweck</dt>
                         <dd>Häkchen in Listen, Plus/Minus in Aufklapp-Elementen. Werden über die installierte System- bzw. Webschrift gerendert.</dd>
@@ -231,7 +231,7 @@
             </section>
 
             <section id="sources" aria-labelledby="sources-title">
-                <h2 id="sources-title">6. Verwendete Lizenztypen im Überblick</h2>
+                <h2 id="sources-title">6. Verwendete Lizenztypen</h2>
                 <p>
                     Zur besseren Einordnung erläutern wir kurz die in dieser Übersicht genannten Lizenztypen:
                 </p>
@@ -239,13 +239,13 @@
                 <h3>SIL Open Font License 1.1 (OFL)</h3>
                 <p>
                     Eine Lizenz speziell für Schriftarten. Sie erlaubt die freie Verwendung, Verbreitung und Modifikation - auch bei
-                    kommerziellen Projekten. Modifizierte Versionen müssen unter derselben Lizenz weitergegeben werden. Sie Schriften
+                    kommerziellen Projekten. Modifizierte Versionen müssen unter derselben Lizenz weitergegeben werden. Die Schriften
                     selbst dürfen nicht einzeln verkauft werden.
                 </p>
 
                 <h3>MIT License</h3>
                 <p>
-                    Eine Permissive Open Software Lizenz. Sie erlaubt kommerzielle Nutzung, Veränderung und Verbreitung des Codes - 
+                    Eine permissive Open Software Lizenz. Sie erlaubt kommerzielle Nutzung, Veränderung und Verbreitung des Codes - 
                     es müssen lediglich Lizenz- und Urheberrechtshinweise in Kopien des Codes erhalten bleiben.
                 </p>
 

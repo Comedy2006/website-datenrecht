@@ -91,7 +91,7 @@
           <address>
             Lapis Software GmbH<br />
             Musterstraße 29<br />
-            2275 Bernhardsthal, Österreich
+            2275 Bernhardsthal / Niederösterreich
           </address>
         </div>
 

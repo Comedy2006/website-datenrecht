@@ -15,23 +15,23 @@
             <nav aria-labelledby="tos-title" class="tos">
                 <h2 id="tos-title">Inhaltsverzeichnis</h2>
                 <ol>
-                    <li><a href="#responsible">Verantwortliche Stelle</a></li>
-                    <li><a href="#general">Allgemeine Hinweise</a></li>
-                    <li><a href="#serverlogs">Server-Logfiles</a></li>
+                    <li>Verantwortliche Stelle</li>
+                    <li>Allgemeine Hinweise</li>
+                    <li>Server-Logfiles</li>
                     <!--<li><a href="#cookies">Cookies</a></li>-->
-                    <li><a href="#contact-form">Kontaktformular</a></li>
-                    <li><a href="#order">Bestell- und Anfrageprozess</a></li>
-                    <li><a href="#account">Account</a></li>
-                    <li><a href="#analytics">Analyse</a></li>
-                    <li><a href="#payment">Zahlung</a></li>
-                    <li><a href="#fonts">Externe Schriften (Fonts)</a></li>
-                    <li><a href="#hosting">Hosting</a></li>
-                    <li><a href="#third-countries">Übermittlung an Drittländer</a></li>
-                    <li><a href="#security">Sicherheit Ihrer Daten</a></li>
-                    <li><a href="#cookies">Cookies</a></li>
-                    <li><a href="#rights">Ihre Rechte als Betroffene</a></li>
-                    <li><a href="#complaint">Beschwerderecht</a></li>
-                    <li><a href="#changes">Änderungen dieser Datenschutzerklärung</a></li>
+                    <li>Kontakt</li>
+                    <li>Bestell- und Anfrageprozess</li>
+                    <li>Account</li>
+                    <li>Analyse</li>
+                    <li>Zahlung</li>
+                    <li>Externe Schriftarten (Fonts)</li>
+                    <li>Hosting</li>
+                    <li>Übermittlung an Drittländer</li>
+                    <li>Sicherheit Ihrer Daten</li>
+                    <li>Cookies</li>
+                    <li>Ihre Rechte als betroffene Person</li>
+                    <li>Beschwerderecht</li>
+                    <li>Änderungen dieser Datenschutzerklärung</li>
                 </ol>
             </nav>
 
@@ -62,7 +62,7 @@
                     Zweck verarbeiten und auf welcher Rechtsgrundlage.
                 </p>
                 <p>
-                    Diese Website nutzt Transportverschlüselung (HTTPS/TLS). Daten,
+                    Diese Website nutzt Transportverschlüsselung (HTTPS/TLS). Daten,
                     die Sie über Formulare an uns senden, werden verschlüsselt übertragen.
                 </p>
             </section>
@@ -70,12 +70,12 @@
             <section id="serverlogs" aria-labelledby="serverlogs-title">
                 <h2 id="serverlogs-title">3. Server-Logfiles</h2>
                 <p>
-                    Beim Aufruf unserer Website werden von Hosting-Anbieter automatisch
+                    Beim Aufruf unserer Website werden vom Hosting-Anbieter automatisch
                     Daten in Server-Logfiles gespeichert.
                     Folgende Daten werden verarbeitet:
                 </p>
                 <ul>
-                    <li>IP-Adresse des aufrunfenden Endgeräts</li>
+                    <li>IP-Adresse des aufrufenden Endgeräts</li>
                     <li>Datum und Uhrzeit der Anfrage</li>
                     <li>Aufgerufene Seite (URL)</li>
                     <li>Verwendeter Browser und Betriebssystem</li>
@@ -92,11 +92,11 @@
                 <h2 id="contact-form">4. Kontakt</h2>
                 <p>
                     Wenn Sie uns über das Kontaktformular eine Nachricht senden, verarbeiten
-                    wir die von ihnen eingegebenen Daten ausschließlich zur Bearbeitung
-                    Ihrer Anfrage und für allfällige Anschlussfragen.
+                    wir die von Ihnen eingegebenen Daten ausschließlich zur Bearbeitung
+                    Ihrer Anfragen und für allfällige Anschlussfragen.
                 </p>
                 <p>
-                    <strong>Verarbeitete Daten:</strong> Anrede, ANme, E-Mail Adresse, Organisation
+                    <strong>Verarbeitete Daten:</strong> Anrede, Name, E-Mail Adresse, Organisation
                     (sofern angegeben), Anfragetyp, Nachrichteninhalt.<br />
                     <strong>Zweck:</strong> Beantwortung Ihrer Anfrage, Vertragsanbahnung.<br />
                     <strong>Rechtsgrundlage:</strong> Art. 6 Abs. 1 lit. b DSGVO bzw. Art. 6 Abs. 1 lit. f DSGVO.<br />
@@ -110,12 +110,12 @@
             <section id="order" aria-labelledby="order-title">
                 <h2 id="order-title">5. Bestell- und Anfrageprozess</h2>
                 <p>
-                    Da QueueCare als individuelles B2B-Angebot vertrieben wird, erfolgt der Abschluss eines Lizenzvertrags nicht direkt im Webshop,
+                    Da QueueCare als individuelles B2B-Angebot vertrieben wird, erfolgt der Abschluss eines Lizenzvertrages nicht direkt im Webshop,
                     sondern nach individueller Angebotserstellung. Im Rahmen dieses Prozesses verarbeiten wir die folgenden Daten:
                 </p>
                 <ul>
                     <li>Name Ihrer Organisation (und Anschrift)</li>
-                    <li>Name, E-Mail-Adresse und (wenn gegeben) Telefonnummer der Ansprechsperson</li>
+                    <li>Name, E-Mail-Adresse und (falls gegeben) Telefonnummer der Ansprechsperson</li>
                     <li>Für Rechnungsstellung: UID-Nummer</li>
                     <li>Bedarfs- und Konfigurationsangaben</li>
                     <li>Korrespondenz im Rahmen der Vertragsanbahnung und -abwicklung</li>
@@ -124,12 +124,12 @@
                     <strong>Zweck:</strong> Erstellung eines individuellen Angebots, Vertragsabschluss, Rechnungsstellung, Vertragsabwicklung.<br />
                     <strong>Rechtsgrundlage:</strong> Art. 6 Abs. 1 lit. b DSGVO sowie Art. 6 Abs. 1 lit. c DSGVO.<br />
                     <strong>Speicherdauer:</strong> Vertrags- und Rechnungsdaten werden für die Dauer der gesetzlichen Aufbewahrungsfristen gespeichert.
-                    Andere Daten werden nach Ende der geschäftsbeziehung gelöscht, soweit keine Aufbewahrungspflichten entgegenstehen.
+                    Andere Daten werden nach Ende der Geschäftsbeziehung gelöscht, soweit keine Aufbewahrungspflichten entgegenstehen.
                 </p>
             </section>
 
             <section id="account" aria-labelledby="account-title">
-                <h2 id="account-title">6. Kundenkonto</h2>
+                <h2 id="account-title">6. Account</h2>
                 <p>
                     Bestandskund:innen können sich in den Kundenbereich unserer QueueCare-Anwendung einloggen, um Lizenzen, Nutzer:innen und Einstellungen
                     zu verwalten.
@@ -139,7 +139,7 @@
                     (zur Erkennung verdächtiger Aktivitäten).<br />
                     <strong>Zweck:</strong> Bereitstellung des Kundenbereichs, Authentifizierung, Schutz vor unbefugtem Zugriff.<br />
                     <strong>Rechtsgrundlage:</strong> Art. 6 Abs. 1 lit. b DSGVO (Vertragserfüllung).<br />
-                    <strong>Speicherdauer:</strong> Die Kontodaten werden für die Dauer der geschäftsbeziehung gespeichert. Bei Beendigung des Lizenzvertrags
+                    <strong>Speicherdauer:</strong> Die Kontodaten werden für die Dauer der Geschäftsbeziehung gespeichert. Bei Beendigung des Lizenzvertrags
                     wird das Konto innerhalb von 30 Tagen gelöscht, sofern keine gesetzlichen Aufbewahrungsfristen entgegenstehen.
                 </p>
             </section>
@@ -148,7 +148,7 @@
                 <h2 id="analytics-title">7. Analyse</h2>
                 <p>
                     Zur statistischen Auswertung der Websitennutzung setzen wir die datenschutzfreundliche Open-Source-Lösung <strong>Matomo</strong>
-                    ein, die wir auf eigenen Servern in Wien betreiben. Es findet keine Übermittlung von Daten an Dritte statt.
+                    ein, welche wir auf eigenen Servern in Wien betreiben. Es findet keine Übermittlung von Daten an Dritte statt.
                 </p>
                 <p>
                     <strong>Verarbeitete Daten:</strong> anonymisierte IP-Adresse, aufgerufene Seiten, Verweildauer, ungefährer Standort (Land/Stadt), Gerätetyp,
@@ -163,13 +163,13 @@
             </section>
 
             <section id="payment" aria-labelledby="payment-title">
-                <h2 id="payment-title">8. Zahlungsabwicklung</h2>
+                <h2 id="payment-title">8. Zahlung</h2>
                 <p>
                     Die Bezahlung von QueueCare-Lizenzen erfolgt nach Vertragsabschluss durch Rechnungslegung mit Banküberweisung.
                     Eine Zahlungsabwicklung über externe Zahlungsdienstleister findet derzeit nicht statt.
                 </p>
                 <p>
-                    <strong>Verarbeitete Daten:</strong> Rechnungsempängerdaten, Bankverbindung (Zuordnung Zahlungseingang).<br />
+                    <strong>Verarbeitete Daten:</strong> Rechnungsempfängerdaten, Bankverbindung (Zuordnung Zahlungseingang).<br />
                     <strong>Zweck:</strong> Vertragsabwicklung, Rechnungsstellung, Buchhaltung.<br />
                     <strong>Rechtsgrundlage:</strong> Art. 6 Abs. 1 lit. b DSGVO sowie Art. 6 Abs. 1 lit. c DSGVO.<br />
                     <strong>Speicherdauer:</strong> 7 Jahre gemäß § 132 Bundesabgabenordnung.
@@ -190,18 +190,18 @@
                     <strong>Rechtsgrundlage:</strong> Art. 6 Abs. 1 lit. f DSGVO.<br />
                     <strong>Speicherdauer:</strong> Verarbeitung erfolgt nur im Moment des Seitenaufrufs durch Google. Nähere Informationen zum Umgang
                     mit Daten finden Sie in der Datenschutzerklärung von Google unter
-                    <a href="https://policies.google.com/privacy" rel="noopener">policies.google.com/privacy</a>
+                    <a href="https://policies.google.com/privacy" rel="noopener">policies.google.com/privacy</a>.
                 </p>
             </section>
 
             <section id="hosting" aria-labelledby="hosting-title">
                 <h2 id="hosting-title">10. Hosting</h2>
                 <p>
-                    Unsere Website wird bei einem Auftragsverarbeiter im Sinne von Art. 28 DSGVO im Sitz in der Europäischen Union gehostet. Mit dem Hosting-Anbieter
+                    Unsere Website wird bei einem Auftragsverarbeiter im Sinne von Art. 28 DSGVO mit Sitz in der Europäischen Union gehostet. Mit dem Hosting-Anbieter
                     besteht ein Auftragsverarbeitungsvertrag, der die DSGVO-konforme Datenverarbeitung sicherstellt.
                 </p>
                 <p>
-                    Die Daten unserer Kund:innen, die im Rahmen der QueueCare-Anwendung verarbeitet werden, werden in ISO-27001-zertifizierten
+                    Die Daten unserer Kund:innen, welche im Rahmen der QueueCare-Anwendung verarbeitet werden, werden in ISO-27001-zertifizierten
                     Rechenzentren in Wien, Frankfurt und Amsterdam gespeichert.
                 </p>
             </section>
@@ -214,7 +214,7 @@
                     von Google Limited erfolgen.
                 </p>
                 <p>
-                    Sollten in zukunft Datenübermittlungen in Drittländer stattfinden, erfolgen diese nur auf Grundlage geeigneter Garantien gemäß
+                    Sollten in Zukunft Datenübermittlungen in Drittländer stattfinden, erfolgen diese nur auf Grundlage geeigneter Garantien gemäß
                     Art. 46 DSGVO oder mit Ihrer ausdrücklichen Einwilligung gemäß Art. 49 Abs. 1 lit. a DSGVO.
                 </p>
             </section>
@@ -223,13 +223,13 @@
                 <h2 id="security-title">12. Sicherheit Ihrer Daten</h2>
                 <p>
                     Wir treffen technische und organisatorische Maßnahmen gemäß Art. 32 DSGVO, um Ihre personenbezogenen Daten gegen zufällige 
-                    oder versätzliche Manipulation, Verlust, Zerstörung oder gegen den Zugriff unberechtigter Personen zu schützen. Dazu zählen
+                    oder vorsätzliche Manipulation, Verlust, Zerstörung oder gegen den Zugriff unberechtigter Personen zu schützen. Dazu zählen
                     unter anderem:
                 </p>
                 <ul>
                     <li>Verschlüsselung der Datenübertragung mittels TLS</li>
                     <li>Regelmäßige Sicherheitsupdates aller eingesetzten Systeme</li>
-                    <li>Mehrstufige Zugriffskontrolen mit rollenbasierter Berechtigung</li>
+                    <li>Mehrstufige Zugriffskontrollen mit rollenbasierter Berechtigung</li>
                     <li>Verschlüsselte Datensicherung in zertifizierten EU-Rechenzentren</li>
                     <li>Schulung aller Mitarbeitenden auf Vertraulichkeit und Datenschutz</li>
                 </ul>
@@ -238,16 +238,16 @@
             <section id="cookies" aria-labelledby="cookies-title">
                 <h2 id="cookies-title">13. Cookies</h2>
                 <p>
-                    Unsere Website verwendet Cookies. Cookies sind kleine Textdateien, die im Browser Ihres Endgeräts gespeichert werden.
+                    Unsere Website verwendet Cookies. Cookies sind kleine Textdateien, die im Browser Ihres Endgerätes gespeichert werden.
                 </p>
                 <h3>13.1 Technisch notwendige Cookies</h3>
                 <p>
-                    Diese Cookies sind für den Betrieb der Website erforderlich (zB Sprachauswahl).
+                    Diese Cookies sind für den Betrieb der Website erforderlich (z.B: Sprachauswahl).
                     Sie werden ohne Ihre Einwilligung gesetzt.
                 </p>
                 <p>
                     <strong>Rechtsgrundlage:</strong> § 165 Abs. 3 TKG 2021 bzw. Art. 6 Abs. 1 lit. f DSGVO.<br />
-                    <strong>Speicherdauer:</strong> 1 Sitzung bis 12 Monate je nach Cookie.
+                    <strong>Speicherdauer:</strong> 1 Sitzung bis 12 Monate, je nach Cookie.
                 </p>
 
                 <h3>13.2 Optionale Cookies</h3>
@@ -257,12 +257,12 @@
                 </p>
                 <p>
                     <strong>Rechtsgrundlage:</strong> Art. 6 Abs. 1 lit. a DSGVO<br />
-                    Sie können Ihre Einwilligung jederzeit mit Wirkung für die zukunft widerrufen.
+                    Sie können Ihre Einwilligung jederzeit mit Wirkung für die Zukunft widerrufen.
                 </p>
             </section>
 
             <section id="rights" aria-labelledby="rights-title">
-                <h2 id="rights-title">14. Ihre Rechte als Betroffene</h2>
+                <h2 id="rights-title">14. Ihre Rechte als betroffene Person</h2>
                 <p>
                     Ihnen stehen bezüglich der bei uns gespeicherten Daten folgende Rechte zu:
                 </p>
@@ -277,13 +277,13 @@
                 </ul>
                 <p>
                     Zur Geltendmachung Ihrer Rechte wenden Sie sich bitte formlos an
-                    <a href="mailto:datenschutz@queuecare.at">datenschutz@queuecare.at</a>
+                    <a href="mailto:datenschutz@queuecare.at">datenschutz@queuecare.at</a>.
                     Wir bearbeiten Ihre Anfrage binnen weniger Werktage.
                 </p>
             </section>
 
             <section id="complaint" aria-labelledby="complaint-title">
-                <h2 id="complaint-title">15. Berschwerderecht</h2>
+                <h2 id="complaint-title">15. Beschwerderecht</h2>
                 <p>
                     Sie haben das Recht, sich bei der zuständigen Aufsichtsbehörde zu beschwerden, wenn Sie der Ansicht sind, dass die
                     Verarbeitung Ihrer personenbezogenen Daten gegen die DSGVO verstößt.
@@ -299,11 +299,11 @@
             </section>
 
             <section id="changes" aria-labelledby="changes-title">
-                <h2 id="changes-title">16. Änderung dieser Datenschutzerklärung</h2>
+                <h2 id="changes-title">16. Änderungen dieser Datenschutzerklärung</h2>
                 <p>
-                    Wir behalten uns vor, diese Datenschutzerklärung anzupassen, wenn sich die Rechtslage, unsere Geschäftsprozesse oder die
+                    Wir behalten uns vor diese Datenschutzerklärung anzupassen wenn sich die Rechtslage, unsere Geschäftsprozesse oder die
                     eingesetzten Technologien ändern. Die jeweils aktuelle Version ist auf dieser Seite aufrufbar. Wesentliche Änderungen
-                    kommunizieren wir aktiv (z.B. per E-Mail).
+                    kommunizieren wir aktiv (z.B: per E-Mail).
                 </p>
             </section>
 
